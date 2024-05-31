@@ -5,18 +5,18 @@
 
   "port": "3000",
   
-  "clientId": "00000000000000000",
-  "guildId": "0000000000000000000",
+  "clientId": "1245546547526107206",
+  "guildId": "1244638892741627985",
 
-  "status": "Made By ScienceGear 🔥",
+  "status": ".gg/fame | FREE & PAID SERVICES",
   "website": "https://youtube.com/ScienceGearYT",
-  "banner": "https://media.discordapp.net/attachments/960440723369517106/996423763522506782/rainbow-border.gif",
-  "footer": "Made By ScienceGear 🔥",
+  "banner": "https://media.discordapp.net/attachments/1246156965986566235/1246157563339341945/8824-stay-weird.gif?ex=665b5e2b&is=665a0cab&hm=a9a321bc185de3172e718eee86650baa4cd387b1dae9275b6eec1e50dade5935&",
+  "footer": "Made By !  DevilOnTop",
 
-  "genChannel": "00000000000000000000",
-  "premiumChannel": "00000000000000000000",
-  "genCooldown": "5",
-  "premiumCooldown": "3",
+  "genChannel": "1245965367482781718",
+  "premiumChannel": "1246156965986566235",
+  "genCooldown": "3",
+  "premiumCooldown": "1",
 
   "color": {
     "green": "0x57F287",
